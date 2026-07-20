@@ -1,3 +1,30 @@
+
+
+Nền tảng nguồn mở “cực mạnh” 20k ⭐️ giúp xây dựng Computer-Use Agents cho macOS, Windows, Linux và Android, AI có thể tự quan sát màn hình, di chuyển chuột, gõ phím và thao tác với các ứng dụng như một người dùng thực sự. Tôi đã xây dựng một hệ thống thu thập dữ liệu sàn thương mại điện tử từ nền tảng này.
+
+Điểm mạnh của Cua là không chỉ cung cấp một SDK, mà là cả một hệ sinh thái hoàn chỉnh:
+
+* Cua Sandbox: Tạo môi trường Linux, Windows, macOS hoặc Android với cùng một API.
+* Cua Driver: Điều khiển ứng dụng macOS ở chế độ nền, AI có thể click, gõ phím và kiểm tra giao diện mà không chiếm chuột hay cửa sổ của người dùng.
+* CuaBot: Chạy Claude Code, OpenClaw hoặc các AI Agent khác trong sandbox riêng biệt.
+* Cua Bench: Bộ benchmark và môi trường RL để đánh giá Computer-Use Agents.
+* Lume: Quản lý máy ảo macOS/Linux hiệu năng cao trên Apple Silicon. (GitHub⁠￼)
+
+Một điểm đánh giá rất cao là Cua hướng tới việc chuẩn hóa API. Dù Agent chạy trên container Linux, máy ảo Windows, macOS hay Android thì cách lập trình gần như giống nhau, giúp việc phát triển và kiểm thử trở nên đơn giản hơn. (GitHub⁠￼)
+
+Dự án cũng hỗ trợ nhiều workflow thực tế như:
+
+* Điều khiển trình duyệt và ứng dụng desktop.
+* Tự động hóa quy trình làm việc.
+* Thu thập dữ liệu giao diện.
+* Huấn luyện và đánh giá Computer-Use Agent.
+* Xây dựng AI Assistant có khả năng thao tác trực tiếp trên hệ điều hành.
+
+Nếu bạn đang quan tâm đến xu hướng Operator, Computer Use, GUI Agent hay Desktop Agent, thì Cua là một trong những dự án mã nguồn mở đáng chú ý nhất hiện nay và rất đáng để nghiên cứu.
+
+
+
+
 <div align="center">
   <a href="https://cua.ai" target="_blank" rel="noopener noreferrer">
     <picture>
